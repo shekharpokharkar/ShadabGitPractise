@@ -5,7 +5,8 @@ public class Student {
 	private String studentName;
 	private Long studentRollNo;
 	private String studetnCity;
-
+	private Integer studentCountry;
+	
 	public String getStudentName() {
 		return studentName;
 	}
