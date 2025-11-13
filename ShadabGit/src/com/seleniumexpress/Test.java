@@ -8,6 +8,7 @@ public class Test {
 		double ino2=200.00;
 		long ino3=5263l;
 		System.out.println(fino1+ino2+ino3);
+		System.out.println("*************------------**************");
 	}
 
 }
